@@ -34,7 +34,3 @@ PASS : Valid Login
 PASS : Invalid Login
 PASS : Empty Username
 PASS : Empty Password
-
-## Report
-
-Open reports/TestReport.html in a browser to view the test execution report.
